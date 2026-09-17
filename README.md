@@ -7,7 +7,7 @@ Idei első bemutató repozitórimum
 - Hidrológia és vízgazdálkodás
 - Környezeti modellezés
 - water resources management
-- Digital data processing
+- Digital data processing sorrend!
 ## tantermek
 -4-es terem
 geo gyakoroló
