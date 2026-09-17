@@ -15,3 +15,4 @@ geo gyakoroló
 -hétfő 12:00
 -kedd 9:00 
 -Szerda 13:00 
+-
