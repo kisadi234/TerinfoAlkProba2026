@@ -7,10 +7,10 @@ Idei első bemutató repozitórimum
 - térinformastikai alkalmazások
 
 ## tantermek
--4-es terem
-geo gyakoroló
+- 4-es terem
+- geo gyakoroló
+
 ## kezdések
--hétfő 12:00
--kedd 9:00 
--Szerda 13:00 
--
+- hétfő 12:00
+- kedd 9:00 
+- Szerda 13:00
