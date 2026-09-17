@@ -1,5 +1,6 @@
 # TerinfoAlkProba2026
 Idei első bemutató repozitórimum
+
 ## idei tanóráim
 - térinformastikai alkalmazások
 - vizes élőhelyek kezelése
@@ -8,11 +9,12 @@ Idei első bemutató repozitórimum
 - Környezeti modellezés
 - water resources management
 - Digital data processing
+
 ## tantermek
--4-es terem
-geo gyakoroló
+- 4-es terem
+- geo gyakoroló
+
 ## kezdések
--hétfő 12:00
--kedd 9:00 
--Szerda 13:00 
--
+- hétfő 12:00
+- kedd 9:00 
+- Szerda 13:00
