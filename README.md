@@ -8,3 +8,6 @@ Idei első bemutató repozitórimum
 - Környezeti modellezés
 - water resources management
 - Digital data processing
+## tantermek
+-4-es terem
+geo gyakoroló
